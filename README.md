@@ -59,12 +59,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 <img width="945" alt="HTML Screenshot " src="https://user-images.githubusercontent.com/96853408/170865699-412dbac9-66c4-4e6f-bea3-dc271329a2d8.png">
 
-
-- - -
-
-![Earth Panorama](https://user-images.githubusercontent.com/96853408/170865677-844d8962-eecb-4d3f-bbcc-b533bd7240d6.jpg)
-
-
 - - -
 
 ### Copyright
