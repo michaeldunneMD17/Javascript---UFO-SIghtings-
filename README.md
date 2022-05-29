@@ -61,7 +61,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 - - -
 
-**Good luck!**
+![Earth Panorama](https://user-images.githubusercontent.com/96853408/170865677-844d8962-eecb-4d3f-bbcc-b533bd7240d6.jpg)
+
 
 - - -
 
