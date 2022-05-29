@@ -57,7 +57,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+<img width="945" alt="HTML Screenshot " src="https://user-images.githubusercontent.com/96853408/170865699-412dbac9-66c4-4e6f-bea3-dc271329a2d8.png">
+
 
 - - -
 
